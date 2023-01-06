@@ -1,2 +1,2 @@
-# G-T_VCS
+# GIT_VCS
 Git Version Control System
